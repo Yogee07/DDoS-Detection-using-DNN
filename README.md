@@ -7,7 +7,7 @@ Exported csv file can be found [here](https://drive.google.com/drive/folders/1Te
 
 ## Results
 ### Accuracy of ANN Model:
-![Accuracy_ANN](https://github.com/VichuVishwa26/DDoS-Detection/blob/master/Results/Accuracy_ANN.png)
+![Accuracy_ANN](https://github.com/VichuVishwa26/DDoS-Detection/blob/master/Results/Accuracy_ANN.png).
 
 ### Accuracy of BRNN Model:
-![Accuracy_BRNN ](https://github.com/VichuVishwa26/DDoS-Detection/blob/master/Results/Accuracy_BRNN%20.png)
+![Accuracy_BRNN ](https://github.com/VichuVishwa26/DDoS-Detection/blob/master/Results/Accuracy_BRNN%20.png).
